@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Always like to work at open sourceb and cloud computing.<br>📚 I'm currently learning java script,DSA.<br>🎯 Goals: to work with world brilliant mind<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Always like to work at open source and cloud computing.<br>📚 I'm currently learning java script,DSA.<br>🎯 Goals: to work with world brilliant mind<br>🎲 Fun fact: ...</p>
 
 ###
 
